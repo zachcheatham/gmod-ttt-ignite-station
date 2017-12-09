@@ -1,1 +1,0 @@
-resource.AddFile("materials/vgui/ttt/icon_z_ignite_station.vmt")
